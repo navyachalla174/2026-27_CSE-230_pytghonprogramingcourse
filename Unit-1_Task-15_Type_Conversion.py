@@ -1,0 +1,1 @@
+str_num = input("Enter a numeric value as text: ")
