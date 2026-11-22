@@ -1,0 +1,1 @@
+n = int(input("Enter N (print 1 to N, skip even numbers): "))
