@@ -1,0 +1,1 @@
+n = int(input("Enter N (print until N, stop early at 5): "))
