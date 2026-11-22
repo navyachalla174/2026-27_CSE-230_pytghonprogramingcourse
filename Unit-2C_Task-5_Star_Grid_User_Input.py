@@ -1,0 +1,1 @@
+rows = int(input("Enter grid size (rows and columns): "))
