@@ -1,0 +1,1 @@
+total_input_numbers = int(input("Enter how many numbers: "))
